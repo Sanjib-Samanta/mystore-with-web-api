@@ -1,0 +1,8 @@
+D:\Angular\mystoreapp\MyStoreApp\MyStoreApp\bin\MyStore.Database.dll.config
+D:\Angular\mystoreapp\MyStoreApp\MyStoreApp\bin\MyStore.Database.dll
+D:\Angular\mystoreapp\MyStoreApp\MyStoreApp\bin\MyStore.Database.pdb
+D:\Angular\mystoreapp\MyStoreApp\MyStore.Database\obj\Debug\MyStore.Database.csprojAssemblyReference.cache
+D:\Angular\mystoreapp\MyStoreApp\MyStore.Database\obj\Debug\MyStore.Database.csproj.CoreCompileInputs.cache
+D:\Angular\mystoreapp\MyStoreApp\MyStore.Database\obj\Debug\MyStore.Database.csproj.CopyComplete
+D:\Angular\mystoreapp\MyStoreApp\MyStore.Database\obj\Debug\MyStore.Database.dll
+D:\Angular\mystoreapp\MyStoreApp\MyStore.Database\obj\Debug\MyStore.Database.pdb

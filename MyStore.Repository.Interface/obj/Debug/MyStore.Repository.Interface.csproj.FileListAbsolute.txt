@@ -1,0 +1,7 @@
+D:\Angular\mystoreapp\MyStoreApp\MyStoreApp\bin\MyStore.Repository.Interface.dll
+D:\Angular\mystoreapp\MyStoreApp\MyStoreApp\bin\MyStore.Repository.Interface.pdb
+D:\Angular\mystoreapp\MyStoreApp\MyStore.Repository.Interface\obj\Debug\MyStore.Repository.Interface.csprojAssemblyReference.cache
+D:\Angular\mystoreapp\MyStoreApp\MyStore.Repository.Interface\obj\Debug\MyStore.Repository.Interface.csproj.CoreCompileInputs.cache
+D:\Angular\mystoreapp\MyStoreApp\MyStore.Repository.Interface\obj\Debug\MyStore.Repository.Interface.csproj.CopyComplete
+D:\Angular\mystoreapp\MyStoreApp\MyStore.Repository.Interface\obj\Debug\MyStore.Repository.Interface.dll
+D:\Angular\mystoreapp\MyStoreApp\MyStore.Repository.Interface\obj\Debug\MyStore.Repository.Interface.pdb
